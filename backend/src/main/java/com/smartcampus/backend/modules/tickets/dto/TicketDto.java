@@ -2,6 +2,7 @@ package com.smartcampus.backend.modules.tickets.dto;
 
 import lombok.Data;
 
+
 @Data
 public class TicketDto {
     private String id;

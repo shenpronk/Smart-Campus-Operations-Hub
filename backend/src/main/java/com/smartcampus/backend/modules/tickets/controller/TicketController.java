@@ -14,6 +14,7 @@ public class TicketController {
         return ApiResponse.success("Ticket Creation Access Granted", "New Ticket ID: 123");
     }
 
+
     @DeleteMapping("/{id}")
     @PreAuthorize("hasRole('ADMIN')")
     public ApiResponse<String> deleteTicket(@PathVariable String id) {
