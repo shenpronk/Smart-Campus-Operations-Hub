@@ -9,7 +9,7 @@ const StudentDashboardPage = () => {
            <div className="rounded-lg border border-slate-100 bg-slate-50 p-6">
              <h3 className="font-semibold text-slate-800">My Bookings</h3>
              <p className="mt-1 text-sm text-slate-500">You have no upcoming bookings.</p>
-           </div>
+           </div> 
            <div className="rounded-lg border border-slate-100 bg-slate-50 p-6">
              <h3 className="font-semibold text-slate-800">Recent Tickets</h3>
              <p className="mt-1 text-sm text-slate-500">Your recent tickets will appear here.</p>

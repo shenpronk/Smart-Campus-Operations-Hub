@@ -7,4 +7,5 @@ const TicketsPage = () => {
   );
 };
 
+
 export default TicketsPage;

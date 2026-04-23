@@ -14,7 +14,7 @@ const AdminDashboardPage = () => {
            <div className="rounded-lg bg-orange-50 p-6 border border-orange-100">
              <p className="text-sm font-medium text-orange-600">Pending Tickets</p>
              <p className="text-3xl font-bold text-orange-900">12</p>
-           </div>
+           </div> 
            <div className="rounded-lg bg-green-50 p-6 border border-green-100">
              <p className="text-sm font-medium text-green-600">Active Bookings</p>
              <p className="text-3xl font-bold text-green-900">156</p>
